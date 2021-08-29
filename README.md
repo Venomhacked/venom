@@ -1,3 +1,3 @@
 # venom
-venom repo for git comand demonstration
+test repo for git comand demonstration
 
